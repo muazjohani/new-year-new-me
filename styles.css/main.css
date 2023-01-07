@@ -1,0 +1,202 @@
+/* Some Past year failure section  */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mada', sans-serif;
+}
+
+.past-year-failure {
+    display: flex;
+    justify-content: center;
+    margin-top: 130px;
+    align-items: center;
+}
+
+.past-year-failure img {
+    margin-left: 206px;
+    margin-right: 87px;
+    height: 723.3px;
+}
+
+.details-of-failure {
+    margin-right: 322px;
+    padding: 10px;
+    margin-top: 120px;
+}
+
+.failure-section-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 24px;
+}
+
+.failure-section-description {
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 16px;
+
+}
+
+.list-of-failures {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 8px;
+}
+
+.details-of-failure .fa-solid {
+    color: #16D887;
+    margin-right: 3px;
+}
+
+
+/* MY future plan section */
+
+.my-plan-section {
+    padding: 3px;
+}
+
+.my-plan-text {
+    text-align: center;
+    margin-top: 130px;
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.my-determination-list {
+    display: flex;
+    justify-content: center;
+
+}
+
+.learning-and-quitting-activities {
+    margin: 60px 60px 125px 60px;
+    text-align: center;
+
+}
+
+.activity-name {
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+}
+
+.my-aim {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+
+.btn{
+    color: #FFFFFF;
+    padding: 20px 36px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 0;
+    margin-top: 20px;
+    background-color: #005FAC;
+}
+.btn:hover{
+    background-color: #F15B22;
+    cursor: pointer;
+}
+/* make a Best Version of Yourself section */
+
+.make-yourself-strong {
+    width: 1140px;
+    margin: auto;
+    margin-bottom: 130px;
+}
+
+.motivation-title-text {
+    text-align: center;
+    margin-bottom: 60px;
+    margin-top: 20px;
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.motivation-title-text .fa-clipboard-question {
+    color: rgba(0, 170, 255, 0.542);
+}
+
+.make-yourself-strong img {
+    height: 500px;
+    width: 665px;
+}
+
+.some-useful-knowledge {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.some-useful-tips {
+    margin-left: 70px;
+}
+
+.tips-details {
+    color: #444343;
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 16px;
+    width: 390px;
+}
+
+.tips-point {
+
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 8px;
+    
+}
+.tips-point .fa-solid{
+    margin-right: 10px;
+}
+
+
+
+/* Call Section */
+
+.call-section {
+    width: 1140px;
+    height: 300px;
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url('../images/watch.png');
+    border-radius: 8px;
+
+
+    box-sizing: border-box;
+    padding: 59px 617px 59px 64px;
+    margin: auto;
+    margin-bottom: 130px;
+}
+
+.motivation-text {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+.call-btn {
+    color: #005FAC;
+    padding: 20px 36px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 0;
+    margin-top: 24px;
+    
+}
+.call-btn:hover{
+    background-color: #F15B22;
+    cursor: pointer;
+}
